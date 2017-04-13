@@ -13,17 +13,19 @@ Currently recommended version is
     
 Platform
 
-1.Lab run mode not stricted
-2.DB read/write don't break program
-3.Custom reporter for TestNG
-4.Page Object Pattern Practice
+* Lab run mode not stricted
+* DB read/write don't break program
+* Custom reporter for TestNG
+* Page Object Pattern Practice
+
 
 API
 
-1.APITest rewrite based on httpclient 4.4
-2.Template/Data loader rewrite
-3.Simplify develop test case
-4.Document api test user guide
+* APITest rewrite based on httpclient 4.4
+* Template/Data loader rewrite
+* Simplify develop test case
+* Page Object Pattern Practice
+
 
 
 UI

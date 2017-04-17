@@ -43,7 +43,7 @@ import java.util.Properties;
 
 
 /**
- * @author liuxb
+ * @author sqou
  *         2015/9/25
  */
 public class DbInitializer {

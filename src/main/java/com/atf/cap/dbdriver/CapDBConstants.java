@@ -2,7 +2,7 @@ package com.atf.cap.dbdriver;
 
 /**
  * @author oushiqiang
- *         2015/9/25
+ *         2017/4/5
  */
 public class CapDBConstants {
 

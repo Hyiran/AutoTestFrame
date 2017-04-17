@@ -10,7 +10,7 @@ import java.util.Map;
 import static com.atf.cap.Assertion.fail;
 
 /**
- * @author liuxb
+ * @author sqou
  *
  */
 public class DbPlainTemplate implements DbTemplate {

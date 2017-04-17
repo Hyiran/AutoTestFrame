@@ -15,7 +15,7 @@ import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 /**
- * @author zwxu
+ * @author sqou
  *
  */
 public class ParserXml {
